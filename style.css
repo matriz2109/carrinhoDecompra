@@ -23,3 +23,7 @@ main{
     border-radius: 10px;
     padding: 20px;
 }
+
+.produtos{
+    display: flex;
+}
