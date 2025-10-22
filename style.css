@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #f8f9fa;
 }
 
 header{
@@ -11,4 +12,9 @@ header{
 
 main{
     display: flex;
+}
+
+.produtos{
+    background-color: white ;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1 );
 }
